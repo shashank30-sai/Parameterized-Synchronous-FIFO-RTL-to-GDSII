@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : fifo_top
+Version: T-2022.03-SP5
+Date   : Fri Jul 10 05:14:47 2026
+****************************************
+
+Library(s) Used:
+
+    saed32rvt_tt0p78vn40c (File: /home/bvrit/synopsys_example/Testcase_C-DAC_july24/C-DAC_july24/ref/lib/stdcell_rvt/saed32rvt_tt0p78vn40c.db)
+
+Number of ports:                           70
+Number of nets:                           369
+Number of cells:                          310
+Number of combinational cells:            224
+Number of sequential cells:                82
+Number of macros/black boxes:               0
+Number of buf/inv:                         64
+Number of references:                       6
+
+Combinational area:                575.890303
+Buf/Inv area:                      148.674241
+Noncombinational area:             556.067087
+Macro/Black Box area:                0.000000
+Net Interconnect area:             204.936079
+
+Total cell area:                  1131.957391
+Total area:                       1336.893469
+1
